@@ -40,72 +40,54 @@
 		<script type="application/ld+json">
 		{
 		  "@context": "https://schema.org",
-		  "@graph": [
+		  "@type": "Museum",
+		  "name": "Palazzo Reale Milano",
+		  "logo": "https://www-cdn.comune.milano.it/o/cdm-cultura-ml-theme/images/png/logo_comune_milano.png",
+		  "address": {
+			"@type": "PostalAddress",
+			"streetAddress": "Piazza del Duomo, 12",
+			"addressLocality": "Milano",
+			"postalCode": "20121",
+			"addressRegion": "MI",
+			"addressCountry": "IT"
+		  },
+		  "description": "Palazzo Reale è accessibile alle persone con ridotta capacità motoria. Dispone di tre accessi alle mostre (di cui due al piano terra con rampa), ascensore per tutti i piani con pulsanti Braille e a rilievo, e due bagni attrezzati (piano terra e primo piano). All'ingresso è disponibile un servizio gratuito di prestito carrozzine.",
+		  "amenityFeature": [
 			{
-			  "@type": "WebPage",
-			  "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/accessibilita.html#webpage",
-			  "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/accessibilita.html",
-			  "name": "Accessibilità - Palazzo Reale Milano",
-			  "description": "Informazioni e dettagli sull'accessibilità fisica, trasporti e agevolazioni tariffarie per i visitatori con disabilità a Palazzo Reale Milano.",
-			  "inLanguage": "it-IT",
-			  "isPartOf": {
-				"@type": "WebSite",
-				"@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#website",
-				"name": "Palazzo Reale Milano",
-				"url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/"
-			  },
-			  "about": {
-				"@type": "Museum",
-				"@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/chi-siamo.html#organization"
-			  }
+			  "@type": "LocationFeatureSpecification",
+			  "name": "Accesso in sedia a rotelle",
+			  "value": true,
+			  "description": "Palazzo Reale dispone di tre accessi alle mostre, di cui due al piano terra dotati di rampa."
 			},
 			{
-			  "@type": "Museum",
-			  "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/chi-siamo.html#organization",
-			  "name": "Palazzo Reale Milano",
-			  "url": "https://www.palazzorealemilano.it",
-			  "logo": "https://www-cdn.comune.milano.it/o/cdm-cultura-ml-theme/images/png/logo_comune_milano.png",
-			  "address": {
-				"@type": "PostalAddress",
-				"streetAddress": "Piazza del Duomo, 12",
-				"addressLocality": "Milano",
-				"postalCode": "20121",
-				"addressRegion": "MI",
-				"addressCountry": "IT"
-			  },
-			  "accessibilityFeature": [
-				"wheelchairAccessible",
-				"accessibleElevator",
-				"accessibleRestrooms",
-				"brailleSignage"
-			  ],
-			  "accessibilitySummary": "Palazzo Reale è accessibile alle persone con ridotta capacità motoria. Dispone di tre accessi alle mostre (di cui due al piano terra con rampa), ascensore per tutti i piani con pulsanti Braille e a rilievo, e due bagni attrezzati (piano terra e primo piano). All'ingresso è disponibile un servizio gratuito di prestito carrozzine.",
-			  "amenityFeature": [
-				{
-				  "@type": "LocationFeatureSpecification",
-				  "name": "Prestito Carrozzine",
-				  "value": true,
-				  "description": "Carrozzina disponibile in prestito gratuito per i visitatori rivolgendosi al personale all'ingresso delle mostre dietro deposito di documento d'identità."
-				},
-				{
-				  "@type": "LocationFeatureSpecification",
-				  "name": "Servizi Igienici Accessibili",
-				  "value": true,
-				  "description": "Bagno attrezzato a piano terra vicino allo Scalone d'Onore (luce porta 91 cm, WC con maniglione destro) e al primo piano vicino alla sala 143 (luce porta 86 cm, maniglioni verticali su entrambi i lati)."
-				},
-				{
-				  "@type": "LocationFeatureSpecification",
-				  "name": "Posti Auto Riservati Disabili",
-				  "value": true,
-				  "description": "Tre posti auto riservati alle persone con disabilità munite di contrassegno nelle vicinanze in via Pecorari, piazza Diaz e piazza Fontana."
-				},
-				{
-				  "@type": "LocationFeatureSpecification",
-				  "name": "Ascensore Accessibile",
-				  "value": true,
-				  "description": "Ascensore di collegamento per tutti i piani con luce porta 109 cm, cabina interna da 130x244 cm e pulsantiera Braille ad altezza massima di 114 cm."
-				}
-			  ]
+			  "@type": "LocationFeatureSpecification",
+			  "name": "Segnaletica in Braille",
+			  "value": true,
+			  "description": "Ascensori di collegamento e percorsi dotati di pulsantiera Braille e scritte a rilievo."
+			},
+			{
+			  "@type": "LocationFeatureSpecification",
+			  "name": "Prestito Carrozzine",
+			  "value": true,
+			  "description": "Carrozzina disponibile in prestito gratuito per i visitatori rivolgendosi al personale all'ingresso delle mostre dietro deposito di documento d'identità."
+			},
+			{
+			  "@type": "LocationFeatureSpecification",
+			  "name": "Servizi Igienici Accessibili",
+			  "value": true,
+			  "description": "Bagno attrezzato a piano terra vicino allo Scalone d'Onore (luce porta 91 cm, WC con maniglione destro) e al primo piano vicino alla sala 143 (luce porta 86 cm, maniglioni verticali su entrambi i lati)."
+			},
+			{
+			  "@type": "LocationFeatureSpecification",
+			  "name": "Posti Auto Riservati Disabili",
+			  "value": true,
+			  "description": "Tre posti auto riservati alle persone con disabilità munite di contrassegno nelle vicinanze in via Pecorari, piazza Diaz e piazza Fontana."
+			},
+			{
+			  "@type": "LocationFeatureSpecification",
+			  "name": "Ascensore Accessibile",
+			  "value": true,
+			  "description": "Ascensore di collegamento per tutti i piani con luce porta 109 cm, cabina interna da 130x244 cm e pulsantiera Braille ad altezza massima di 114 cm."
 			}
 		  ]
 		}
