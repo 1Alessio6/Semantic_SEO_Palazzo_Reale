@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#lunette-appiani",
+    "name": "Le lunette di Andrea Appiani",
+    "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/le-lunette-di-andrea-appiani.html",
+    "image": [
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/Lunette_Appiani.png"
+    ],
+    "creator": {
+        "@type": "Person",
+        "name": "Andrea Appiani",
+        "sameAs": "https://it.wikipedia.org/wiki/Andrea_Appiani"
+    },
+    "artform": "Painting",
+    "artMedium": "affresco (ciclo pittorico)",
+    "description": "Eugène de Beauharnais, nel 1805, per celebrare Milano come la Capitale del nuovo regno, decise di commissionare nuove decorazioni per il Palazzo Reale, l’ex Reggia degli Asburgo affidando il compito ad Andrea Appiani, il primo pittore di corte. Vennero quindi realizzati, nel 1808, una serie di affreschi raffiguranti l’Apoteosi di Napoleone sostenuto dalle 4 virtù. Si tratta di quattro lunette raffiguranti La Fortezza, La Giustizia, La Prudenza e La Temperanza. Nel rappresentare le virtù a sostegno di Napoleone il maestro ha inserito magistralmente alcuni elementi distintivi del nuovo governo: Il medagliere e lo scettro, il Codice di Napoleone, la N sulla colonna, la sfinge. Questi affreschi, che un tempo costituivano parte degli affreschi del soffitto della sala del trono, vennero parzialmente distrutti nel 1943 dai bombardamenti alleati. Fortunatamente vennero staccati e trasportati al riparo a Villa Carlotta a Tramezzina. Nel 2025, in occasione della mostra su Andrea Appiani, le lunette sono state collocate nella Sala delle quattro colonne in attesa del completamento dei lavori di restauro della Sala del Trono di cui torneranno a far parte.",
+    "hasPart": [
+        {
+            "@type": "VisualArtwork",
+            "name": "La Fortezza",
+            "artform": "Painting",
+            "artMedium": "affresco staccato e trasportato su tela",
+            "height": "121 cm",
+            "width": "286 cm"
+        },
+        {
+            "@type": "VisualArtwork",
+            "name": "La Giustizia",
+            "artform": "Painting",
+            "artMedium": "affresco staccato e trasportato su tela",
+            "height": "125 cm",
+            "width": "254 cm"
+        },
+        {
+            "@type": "VisualArtwork",
+            "name": "La Prudenza",
+            "artform": "Painting",
+            "artMedium": "affresco staccato e trasportato su tela",
+            "height": "129 cm",
+            "width": "252 cm"
+        },
+        {
+            "@type": "VisualArtwork",
+            "name": "La Temperanza",
+            "artform": "Painting",
+            "artMedium": "affresco staccato e trasportato su tela",
+            "height": "122 cm",
+            "width": "269 cm"
+        }
+    ]
+}
