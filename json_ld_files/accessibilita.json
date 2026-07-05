@@ -1,8 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Museum",
+  "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum",
   "name": "Palazzo Reale Milano",
   "logo": "https://www-cdn.comune.milano.it/o/cdm-cultura-ml-theme/images/png/logo_comune_milano.png",
+  "telephone": "+390288445181",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Piazza del Duomo, 12",
