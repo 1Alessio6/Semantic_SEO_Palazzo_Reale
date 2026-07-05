@@ -1,0 +1,60 @@
+{
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "Troilo The Breach. Il muro rompe il silenzio.",
+      "description": "Dal 18 giugno al 13 settembre 2026 Palazzo Reale ospita la mostra “The Breach. Il muro rompe il silenzio”, una riflessione artistica contemporanea di Troilo.",
+      "image": "https://www.palazzorealemilano.it/documents/492635337/0/Troilo+1920x1080.jpg",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "startDate": "2026-06-18",
+      "endDate": "2026-09-13",
+      "location": {
+        "type": "Museum",
+        "url": "https://www.palazzorealemilano.it/",
+        "name": "Palazzo Reale",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Piazza del Duomo, 12",
+          "addressLocality": "Milano",
+          "postalCode": "20122",
+          "addressCountry": "IT"
+        },
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/troilo-the-breach",
+      "organizer": {
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Troilo"
+      },
+      "contributor": [
+        {
+          "@type": "Person",
+          "name": "Marco Meneguzzo",
+          "jobTitle": "Curator"
+        },
+        {
+          "@type": "Person",
+          "name": "Domenico Piraina",
+          "jobTitle": "Scientific Contributor"
+        },
+        {
+          "@type": "Person",
+          "name": "Simone Percacciolo",
+          "jobTitle": "Scientific Contributor"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Ingresso Libero",
+          "price": "0.00",
+          "priceCurrency": "EUR",
+          "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/troilo-the-breach",
+          "validFrom": "2026-06-18",
+          "validThrough": "2026-09-13",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+}

@@ -1,0 +1,50 @@
+{
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "Mario Raciti. Opere 1952 - 2025",
+      "description": "La mostra “Mario Raciti. Opere 1952-2025” aperta dal 1°luglio al 20 settembre 2026 al primo piano di Palazzo Reale, intende presentare il percorso artistico di uno dei protagonisti della pittura italiana dal secondo dopoguerra a oggi.",
+      "image": "https://www.palazzorealemilano.it/documents/492635337/0/_4+SFONDO+EVENTO+1920X1080+%281%29.jpg",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-20",
+      "location": {
+        "type": "Museum",
+        "url": "https://www.palazzorealemilano.it/",
+        "name": "Palazzo Reale",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Piazza del Duomo, 12",
+          "addressLocality": "Milano",
+          "postalCode": "20122",
+          "addressCountry": "IT"
+        },
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/mario-raciti.-opere-1952-2025",
+      "organizer": {
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Mario Raciti"
+      },
+      "contributor": [
+        {
+          "@type": "Person",
+          "name": "Luca Pietro Nicoletti",
+          "jobTitle": "Curator"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Ingresso Libero",
+          "price": "0.00",
+          "priceCurrency": "EUR",
+          "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/mario-raciti.-opere-1952-2025",
+          "validFrom": "2026-07-01",
+          "validThrough": "2026-09-20",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+}

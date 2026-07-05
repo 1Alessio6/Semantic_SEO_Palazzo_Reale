@@ -1,0 +1,115 @@
+{
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "LEONORA CARRINGTON",
+      "description": "Dal 20 settembre all'11 gennaio 2026 arriva a Palazzo Reale la prima personale dedicata all'opera di Leonora Carrington in Italia",
+      "image": "https://www.palazzorealemilano.it/documents/492635337/492658201/Leonora+carrington+1920x1080.jpg",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "startDate": "2025-09-20",
+      "endDate": "2026-01-11",
+      "location": {
+        "type": "Museum",
+        "url": "https://www.palazzorealemilano.it/",
+        "name": "Palazzo Reale",
+        "address": {
+         "@type":"PostalAddress",
+         "streetAddress":"Piazza del Duomo, 12",
+         "addressLocality":"Milano",
+         "postalCode": "20122",
+         "addressCountry":"IT"
+      },
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/leonora-carrington-1",
+      "organizer": {
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Leonora Carrington"
+      },
+      "contributor": [
+        {
+          "@type": "Person",
+          "name": "Tere Arcq",
+          "jobTitle": "Curator"
+        },
+        {
+          "@type": "Person",
+          "name": "Carlos Martín",
+          "jobTitle": "Curator"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Biglietto Open",
+          "price": "17.00",
+          "priceCurrency": "EUR",
+          "url": "https://mondomostre.vivaticket.it/it/event/biglietto-open-leonora-carrington/274764?idt=4380",
+          "validFrom": "2025-09-20",
+          "validThrough": "2026-01-11",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto a data fissa (Intero)",
+          "price": "15.00",
+          "priceCurrency": "EUR",
+          "url": "https://mondomostre.vivaticket.it/it/event/leonora-carrington/274768?idt=4380&qubsq=d557882d-f423-4aa3-bcc5-1970b2054e74&qubsp=fd696399-9a9d-41dc-b9a3-2e9f50959591&qubsts=1754040991&qubsc=bestunion&qubse=vivaticketserver&qubsrt=Safetynet&qubsh=57ba2880b7f734d39ef00e0899c9a45d",
+          "validFrom": "2025-09-20",
+          "validThrough": "2026-01-11",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Ridotto",
+          "price": "10.00",
+          "priceCurrency": "EUR",
+          "url": "https://mondomostre.vivaticket.it/it/event/leonora-carrington/274768?idt=4380&qubsq=d557882d-f423-4aa3-bcc5-1970b2054e74&qubsp=fd696399-9a9d-41dc-b9a3-2e9f50959591&qubsts=1754040991&qubsc=bestunion&qubse=vivaticketserver&qubsrt=Safetynet&qubsh=57ba2880b7f734d39ef00e0899c9a45d",
+          "validFrom": "2025-09-20",
+          "validThrough": "2026-01-11",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Ridotto (Speciale)",
+          "price": "13.00",
+          "priceCurrency": "EUR",
+          "url": "https://mondomostre.vivaticket.it/it/event/leonora-carrington/274768?idt=4380&qubsq=d557882d-f423-4aa3-bcc5-1970b2054e74&qubsp=fd696399-9a9d-41dc-b9a3-2e9f50959591&qubsts=1754040991&qubsc=bestunion&qubse=vivaticketserver&qubsrt=Safetynet&qubsh=57ba2880b7f734d39ef00e0899c9a45d",
+          "validFrom": "2025-09-20",
+          "validThrough": "2026-01-11",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Scuole",
+          "price": "6.00",
+          "priceCurrency": "EUR",
+          "url": "https://mondomostre.vivaticket.it/it/event/leonora-carrington/274768?idt=4380&qubsq=d557882d-f423-4aa3-bcc5-1970b2054e74&qubsp=fd696399-9a9d-41dc-b9a3-2e9f50959591&qubsts=1754040991&qubsc=bestunion&qubse=vivaticketserver&qubsrt=Safetynet&qubsh=57ba2880b7f734d39ef00e0899c9a45d",
+          "validFrom": "2025-09-20",
+          "validThrough": "2026-01-11",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Famiglie (1 o 2 adulti)",
+          "price": "10.00",
+          "priceCurrency": "EUR",
+          "url": "https://mondomostre.vivaticket.it/it/event/leonora-carrington/274768?idt=4380&qubsq=d557882d-f423-4aa3-bcc5-1970b2054e74&qubsp=fd696399-9a9d-41dc-b9a3-2e9f50959591&qubsts=1754040991&qubsc=bestunion&qubse=vivaticketserver&qubsrt=Safetynet&qubsh=57ba2880b7f734d39ef00e0899c9a45d",
+          "validFrom": "2025-09-20",
+          "validThrough": "2026-01-11",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Famiglie (da 6 a 14 anni)",
+          "price": "6.00",
+          "priceCurrency": "EUR",
+          "url": "https://mondomostre.vivaticket.it/it/event/leonora-carrington/274768?idt=4380&qubsq=d557882d-f423-4aa3-bcc5-1970b2054e74&qubsp=fd696399-9a9d-41dc-b9a3-2e9f50959591&qubsts=1754040991&qubsc=bestunion&qubse=vivaticketserver&qubsrt=Safetynet&qubsh=57ba2880b7f734d39ef00e0899c9a45d",
+          "validFrom": "2025-09-20",
+          "validThrough": "2026-01-11",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+}

@@ -1,0 +1,120 @@
+{
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "I MACCHIAIOLI",
+      "description": "Dal 3 febbraio al 14 giugno 2026 la mostra I Macchiaioli, porta a Milano per la prima volta una grande retrospettiva dedicata al movimento che rivoluzionò la pittura italiana dell’Ottocento. Oltre 100 opere, provenienti dai maggiori musei italiani, ricostruiscono l’avventura di artisti come Fattori, Lega e Signorini, che combatterono con pennelli e colori una battaglia estetica e civile, intrecciata alle vicende del Risorgimento. Un’esposizione che è frutto degli ultimi studi sui Macchiaioli da parte dei tre esperti italiani più autorevoli del movimento: il progetto espositivo è infatti ideato e curato da Francesca Dini, Elisabetta Matteucci e Fernando Mazzocca e rappresenta un momento di recupero, riflessione e valorizzazione di un frammento fondamentale di storia dell’arte che ha costruito le comuni radici culturali del nostro Paese, attraverso una nuova e più approfondita lettura della loro esperienza.",
+      "image": "https://www.palazzorealemilano.it/documents/492635337/492658201/MACCHIAIOLI_Lega_1920x1080.jpg",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "startDate": "2026-02-03",
+      "endDate": "2026-07-05",
+      "location": {
+        "type": "Museum",
+        "url": "https://www.palazzorealemilano.it/",
+        "name": "Palazzo Reale",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Piazza del Duomo, 12",
+          "addressLocality": "Milano",
+          "postalCode": "20122",
+          "addressCountry": "IT"
+        },
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/i-macchiaioli",
+      "organizer": {
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "performer": {
+        "@type": "Organization",
+        "name": "I Macchiaioli"
+      },
+      "contributor": [
+        {
+          "@type": "Person",
+          "name": "Francesca Dini",
+          "jobTitle": "Curator"
+        },
+        {
+          "@type": "Person",
+          "name": "Elisabetta Matteucci",
+          "jobTitle": "Curator"
+        },
+        {
+          "@type": "Person",
+          "name": "Fernando Mazzocca",
+          "jobTitle": "Curator"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Biglietto Open",
+          "price": "17.00",
+          "priceCurrency": "EUR",
+          "url": "https://mostramacchiaioli.madeticket.it/it/shop/open",
+          "validFrom": "2026-02-03",
+          "validThrough": "2026-07-05",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto a data fissa (Intero)",
+          "price": "15.00",
+          "priceCurrency": "EUR",
+          "url": "https://mostramacchiaioli.madeticket.it/it/shop/biglietti",
+          "validFrom": "2026-02-03",
+          "validThrough": "2026-07-05",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Ridotto",
+          "price": "10.00",
+          "priceCurrency": "EUR",
+          "url": "https://mostramacchiaioli.madeticket.it/it/shop/biglietti",
+          "validFrom": "2026-02-03",
+          "validThrough": "2026-07-05",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Ridotto (Speciale)",
+          "price": "13.00",
+          "priceCurrency": "EUR",
+          "url": "https://mostramacchiaioli.madeticket.it/it/shop/biglietti",
+          "validFrom": "2026-02-03",
+          "validThrough": "2026-07-05",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Scuole",
+          "price": "6.00",
+          "priceCurrency": "EUR",
+          "url": "https://mostramacchiaioli.madeticket.it/it/shop/biglietti",
+          "validFrom": "2026-02-03",
+          "validThrough": "2026-07-05",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Famiglie (1 o 2 adulti)",
+          "price": "10.00",
+          "priceCurrency": "EUR",
+          "url": "https://mostramacchiaioli.madeticket.it/it/shop/biglietti",
+          "validFrom": "2026-02-03",
+          "validThrough": "2026-07-05",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Famiglie (da 6 a 14 anni)",
+          "price": "6.00",
+          "priceCurrency": "EUR",
+          "url": "https://mostramacchiaioli.madeticket.it/it/shop/biglietti",
+          "validFrom": "2026-02-03",
+          "validThrough": "2026-07-05",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+}

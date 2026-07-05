@@ -1,0 +1,43 @@
+{
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "Aurelio Amendola. Capolavori fotografati",
+      "description": "Aurelio Amendola torna a esporre a Palazzo Reale di Milano a trent'anni dalla mostra personale Cappelle Medicee (1995): dal 16 giugno al 6 settembre 2026 lo spazio espositivo in Piazzetta Reale ospita 'Aurelio Amendola. Capolavori fotografati. Burri, Vedova, Nitsch, Duomo di Milano, Bernini, Canova, Michelangelo'. Attraverso 85 fotografie di grande formato, realizzate tra il 1976 e il 2025, il progetto espositivo celebra gli aspetti più intensi e personali dell'opera di Amendola.",
+      "image": "https://www.palazzorealemilano.it/documents/492635337/0/4SFOND%7E1.jpg",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "startDate": "2026-06-16",
+      "endDate": "2026-09-06",
+      "location": {
+        "type": "Museum",
+        "url": "https://www.palazzorealemilano.it/",
+        "name": "Palazzo Reale",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Piazza del Duomo, 12",
+          "addressLocality": "Milano",
+          "postalCode": "20122",
+          "addressCountry": "IT"
+        },
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/aurelio-amendola",
+      "organizer": {
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Aurelio Amendola"
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Ingresso Libero",
+          "price": "0.00",
+          "priceCurrency": "EUR",
+          "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/aurelio-amendola",
+          "validFrom": "2026-06-16",
+          "validThrough": "2026-09-06",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+}

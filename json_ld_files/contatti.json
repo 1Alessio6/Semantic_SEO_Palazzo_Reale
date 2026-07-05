@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Museum",
+  "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+390288445181",
+    "contactType": "customer support",
+    "description": "Helpdesk for Palazzo Reale",
+    "hoursAvailable": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "09:00",
+      "closes": "16:00"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+      "@context":"https://schema.org",
+      "@type":"Museum",
+      "@id":"https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum",
+      "url": "https://www.palazzorealemilano.it/",
+      "name":"Palazzo Reale",
+      "address":{
+         "@type":"PostalAddress",
+         "streetAddress":"Piazza del Duomo, 12",
+         "addressLocality":"Milano",
+         "postalCode": "20122",
+         "addressCountry":"IT"
+      },
+      "telephone":"+390288445181",
+      "sameAs" : "https://en.wikipedia.org/wiki/Royal_Palace_of_Milan"
+}

@@ -1,0 +1,96 @@
+{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "name": "Domande frequenti relative a Palazzo Reale",
+      "description": "Elenco di risposte alle domande più frequenti relative a Palazzo Reale. ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quali sono i giorni e gli orari migliori per evitare attese o affollamenti nelle sale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Per accedere a Palazzo Reale senza lunghe attese è fortemente consigliata la prenotazione. Consulta la sezione <a href=\"/web/palazzo-reale-milano/la-tua-visita/biglietti-e-prenotazioni\" target=\"_blank\">Biglietti e Prenotazioni</a>. Acquistando biglietti in sede è possibile che si creino lunghe attese per rispettare le capienze di sicurezza delle sale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso accedere al bookshop senza entrare in mostra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Palazzo Reale realizziamo temporary bookshop tematici per ogni singola mostra, collocati al termine del percorso espositivo e ricchi di proposte editoriali e gadget. Puoi accedere ai temporary bookshop anche se non hai visitato la mostra collegata. Chiedi al personale della biglietteria."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ho bisogno di una sedia a rotelle per visitare la mostra",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Segnala il tuo arrivo al personale di custodia - prima porta a sinistra oltre il cortile - che si attiverà per fornirti una carrozzina. Ti verrà temporaneamente trattenuto un documento di identità e il personale ti accompagnerà verso l’ascensore che conduce al primo piano."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso prenotare una sedia a rotelle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non è possibile prenotare a distanza una sedia a rotelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il percorso in mostra prevede delle scale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, tutte le mostre di Palazzo Reale hanno un percorso interno che si sviluppa su un solo piano. Se però la mostra che hai scelto di vedere si trova al primo piano e non sei in grado di affrontare la rampa di scale che conduce all’ingresso del percorso espositivo, segnala il tuo arrivo al personale di custodia - prima porta a sinistra oltre il cortile - che si attiverà per accompagnarti verso l’ascensore."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quali sono i giorni e gli orari di apertura delle mostre?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trovi tutte le informazioni sulla pagina <a href=\"/web/palazzo-reale-milano/la-tua-visita/orari\" target=\"_blank\">Orari</a>"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa il biglietto d’ingresso ad una mostra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trovi tutte le informazioni sulla pagina <a href=\"/web/palazzo-reale-milano/la-tua-visita/biglietti-e-prenotazioni\" target=\"_blank\">Biglietti e Prenotazioni</a>"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso prenotare in anticipo l’ingresso alla mostra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, consulta la pagina <a href=\"/web/palazzo-reale-milano/la-tua-visita/biglietti-e-prenotazioni\" target=\"_blank\">Biglietti e Prenotazioni</a>"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso acquistare in anticipo l’ingresso alla mostra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, consulta la pagina <a href=\"/web/palazzo-reale-milano/la-tua-visita/biglietti-e-prenotazioni\" target=\"_blank\">Biglietti e Prenotazioni</a>"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A Palazzo Reale l’ingresso è gratis la prima domenica del mese?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, Palazzo Reale non partecipa all’iniziativa non essendo un museo e non avendo una collezione permanente, ma funzionando come uno spazio espositivo per mostre temporanee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso venire con il mio animale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, all’interno di Palazzo Reale è vietato essere accompagnati da animali, di qualunque taglia e genere."
+          }
+        }
+      ]
+}

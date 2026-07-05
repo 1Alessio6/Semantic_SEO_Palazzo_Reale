@@ -1,0 +1,110 @@
+{
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "Anselm Kiefer. Le Alchimiste",
+      "description": "\"Le Alchimiste\" la nuova imponente mostra di Anselm Kiefer, tra i più influenti artisti contemporanei, sarà allestita nella Sala delle Cariatidi di Palazzo Reale dal 7 febbraio al 27 settembre 2026,\n\n    Le Alchimiste nasce da un progetto avviato nel 2023 e presenta oltre quaranta grandi teleri, concepiti appositamente per dialogare con la drammatica bellezza di questo luogo segnato dal bombardamento del 1943.\n\n    Centrale il legame con Milano, città in cui visse la sua giovinezza Caterina Sforza, scienziata e condottiera, autrice di un raro manoscritto con oltre 400 ricette tra medicamenti e formule alchemiche. Accanto a lei, Kiefer convoca una costellazione di figure femminili, note e dimenticate: da Isabella Cortese e Maria la Giudea a Marie Meudrac, Rebecca Vaughan e Mary Anne Atwood. Attraverso la sua pittura materica e simbolica, l'artista restituisce volti e corpi cancellati dalla storia, riconoscendo alle alchimiste un ruolo cruciale nella nascita del pensiero scientifico moderno.\n\n    Fin dagli esordi, nei primi anni Settanta, Kiefer indaga i poteri creativi e redentivi delle donne, qui tradotti in un pantheon al femminile che intreccia mito, memoria e rigenerazione.\n\n    Il catalogo della mostra è edito da Marsilio Arte.",
+      "image": "https://www.palazzorealemilano.it/documents/492635337/0/1920x1080_Kiefer+%281%29.jpg",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "startDate": "2026-02-07",
+      "endDate": "2026-09-27",
+      "location": {
+        "type": "Museum",
+        "url": "https://www.palazzorealemilano.it/",
+        "name": "Palazzo Reale",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Piazza del Duomo, 12",
+          "addressLocality": "Milano",
+          "postalCode": "20122",
+          "addressCountry": "IT"
+        },
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://www2.comune.milano.it/web/palazzo-reale-milano/-/anselm-kiefer.-le-alchimiste",
+      "organizer": {
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Anselm Kiefer"
+      },
+      "contributor": [
+        {
+          "@type": "Person",
+          "name": "Gabriella Belli",
+          "jobTitle": "Curator"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Biglietto Open",
+          "price": "17.00",
+          "priceCurrency": "EUR",
+          "url": "https://marsilioarte.vivaticket.it/it/event/biglietto-open-anselm-kiefer-le-alchimiste/285062",
+          "validFrom": "2026-02-07",
+          "validThrough": "2026-09-27",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto a data fissa (Intero)",
+          "price": "15.00",
+          "priceCurrency": "EUR",
+          "url": "https://marsilioarte.vivaticket.it/it/event/anselm-kiefer-le-alchimiste/285061?idt=4522",
+          "validFrom": "2026-02-07",
+          "validThrough": "2026-09-27",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Ridotto",
+          "price": "10.00",
+          "priceCurrency": "EUR",
+          "url": "https://marsilioarte.vivaticket.it/it/event/anselm-kiefer-le-alchimiste/285061?idt=4522",
+          "validFrom": "2026-02-07",
+          "validThrough": "2026-09-27",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Ridotto (Speciale)",
+          "price": "13.00",
+          "priceCurrency": "EUR",
+          "url": "https://marsilioarte.vivaticket.it/it/event/anselm-kiefer-le-alchimiste/285061?idt=4522",
+          "validFrom": "2026-02-07",
+          "validThrough": "2026-09-27",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Scuole",
+          "price": "6.00",
+          "priceCurrency": "EUR",
+          "url": "https://marsilioarte.vivaticket.it/it/event/anselm-kiefer-le-alchimiste/285061?idt=4522",
+          "validFrom": "2026-02-07",
+          "validThrough": "2026-09-27",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Famiglie (1 o 2 adulti)",
+          "price": "10.00",
+          "priceCurrency": "EUR",
+          "url": "https://marsilioarte.vivaticket.it/it/event/anselm-kiefer-le-alchimiste/285061?idt=4522",
+          "validFrom": "2026-02-07",
+          "validThrough": "2026-09-27",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Biglietto Famiglie (da 6 a 14 anni)",
+          "price": "6.00",
+          "priceCurrency": "EUR",
+          "url": "https://marsilioarte.vivaticket.it/it/event/anselm-kiefer-le-alchimiste/285061?idt=4522",
+          "validFrom": "2026-02-07",
+          "validThrough": "2026-09-27",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+}
