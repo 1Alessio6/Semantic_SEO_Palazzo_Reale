@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Museum",
+  "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum",
+  "name": "Palazzo Reale Milano",
+  "telephone": "+390288445181",
+  "containsPlace": [
+    {
+      "@type": "CafeOrCoffeeShop",
+      "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#cafe",
+      "name": "Caffè Letterario di Palazzo Reale",
+      "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/caffetteria.jpg",
+      "description": "ll Caffè Letterario di Palazzo Reale si ispira ai caffè presenti nei più famosi musei al mondo. Uno spazio dove la cultura si fonde con l'arte del cibo, creando un suggestivo luogo di ritrovo e una pausa ideale prima o dopo la visita di una mostra. La sala al primo piano è invece il luogo per sorseggiare un tè, sfogliando i cataloghi delle mostre di Palazzo Reale.",
+      "telephone": "02 89096698",
+      "email": "caffe@giacomomilano.com",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Friday", "Saturday", "Sunday"],
+          "opens": "08:00",
+          "closes": "19:30"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Thursday",
+          "opens": "08:00",
+          "closes": "21:30"
+        }
+      ]
+    },
+    {
+      "@type": "BookStore",
+      "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#bookshop",
+      "name": "Bookshop",
+      "description": "A Palazzo Reale puoi trovare temporary shop tematici per ogni singola mostra, collocati al termine del percorso espositivo e ricchi di proposte editoriali e gadget. Oltre al catalogo della mostra, all’interno puoi trovare un’ampia offerta di titoli riferiti al tema dell'esposizione e più in generale alla storia dell’arte. È possibile accedere ai temporary bookshop anche senza visitare la mostra collegata chiedendo al personale in biglietteria."
+    }
+  ],
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Archivio Cataloghi",
+      "value": true,
+      "description": "Al primo piano del Caffè Letterario di Palazzo Reale è possibile sedersi e sfogliare i cataloghi delle grandi mostre che hanno fatto la storia espositiva di Palazzo Reale fino ad oggi. È possibile chiedere un appuntamento per consultare l’archivio completo dei titoli."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Guardaroba",
+      "value": true,
+      "description": "Per ogni piano del palazzo è presente un servizio guardaroba (assistito o con armadietti) dove il visitatore deve riporre caschi, zaini, borse voluminose e ombrelli; non verranno invece ritirati cappotti o altri indumenti personali."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Audioguide",
+      "value": true,
+      "description": "A Palazzo Reale l’audioguida alla mostra in versione italiana e inglese è inclusa nel biglietto di ingresso."
+    }
+  ]
+}
