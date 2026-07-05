@@ -1,2 +1,0 @@
-/*1639657830000*/
-AUI.add("portal-available-languages",function(A){var available={};var direction={};available["en_US"]="inglese (Stati Uniti)";direction["en_US"]="ltr";available["it_IT"]="italiano (Italia)";direction["it_IT"]="ltr";Liferay.Language.available=available;Liferay.Language.direction=direction},"",{requires:[]});
