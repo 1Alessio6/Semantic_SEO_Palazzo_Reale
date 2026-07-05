@@ -1,0 +1,23 @@
+{
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#centrotavola",
+    "name": "Il Centrotavola di Giacomo Raffaelli",
+    "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/il-centrotavola-di-giacomo-raffaelli.html",
+    "image": [
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/il-centrotavola-di-giacomo-raffaelli/il-centrotavola-di-giacomo-raffaelli.jpg",
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/il-centrotavola-di-giacomo-raffaelli/il-centrotavola-di-giacomo-raffaelli2.jpg",
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/il-centrotavola-di-giacomo-raffaelli/il-centrotavola-di-giacomo-raffaelli3.jpg",
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/il-centrotavola-di-giacomo-raffaelli/il-centrotavola-di-giacomo-raffaelli4.jpg"
+    ],
+    "creator": {
+        "@type": "Person",
+        "name": "Giacomo Raffaelli",
+        "sameAs": "https://it.wikipedia.org/wiki/Giacomo_Raffaelli_(artista)"
+    },
+    "artform": "Sculpture",
+    "artMedium": "mosaico minuto, marmi colorati, bronzo dorato",
+    "width": "13 m",
+    "depth": "80 cm",
+    "description": "Nel marzo 1804 il Vicepresidente della Repubblica, Francesco Melzi d’Eril, commissiona al mosaicista romano Giacomo Raffaelli (1753-1836) un centrotavola maestoso per decorare il banchetto, offerto dal Viceré Eugenio di Beauharnais in omaggio al nuovo sovrano, che si sarebbe svolto nella Sala delle Cariatidi di Palazzo Reale in occasione dell’incoronazione di Napoleone Bonaparte a Re d’Italia."
+}
