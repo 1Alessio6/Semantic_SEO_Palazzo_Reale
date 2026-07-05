@@ -1,0 +1,17 @@
+{
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#pendola-sabine",
+    "name": "Pendola con il Ratto delle Sabine",
+    "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/pendola-con-il-ratto-delle-sabine.html",
+    "image": [
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/pendola-con-il-ratto-delle-sabine/pendola-con-il-ratto-delle-sabine.jpg"
+    ],
+    "creator": {
+        "@type": "Person",
+        "name": "Francesco Manfredini"
+    },
+    "artform": "Decorative Art",
+    "artMedium": "bronzo dorato, marmo",
+    "description": "Le Pendole sono esempi di grande interesse artistico, riportando la firma di Francesco Manfredini e il titolo di Orologiere del Re: la pendola delle Sabine, la pendola della Musa Polimnia e la pendola di Apollo e Diana - recanti la firma di Manfredini sul quadrante - sono tutti custoditi nel Palazzo Reale e risalgono ai primi anni di attività della Manifattura Eugenia, fondata a Milano nel 1807 dai tre fratelli Manfredini per volere del viceré d’Italia Eugenio de Beauharnais. In particolare la pendola delle Sabine, il cui nome deriva dal dipinto Le Sabine di Jacques-Luis David, che i Manfredini devono aver ammirato durante il loro soggiorno parigino. L'orologio risale al 1807, anno in cui Francesco Manfredini fu nominato Orologiaio del Re - il quadrante porta infatti la firma Manfredini Orolo.ro del Re a Milano."
+}
