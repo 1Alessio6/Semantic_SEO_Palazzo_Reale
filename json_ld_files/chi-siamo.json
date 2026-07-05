@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/chi-siamo.html",
+  "name": "Chi siamo - Palazzo Reale Milano - Comune di Milano",
+  "url": "https://www.palazzorealemilano.it/il-palazzo/chi-siamo",
+  "inLanguage": "it-IT",
+  "description": "Scopri chi siamo: Palazzo Reale è il cuore espositivo del centro di Milano, una struttura del Comune di Milano che da anni programma, progetta e gestisce grandi mostre d’arte per il grande pubblico.",
+  "mainEntity": {
+    "@type": ["Museum", "Organization"],
+    "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum",
+    "name": "Palazzo Reale Milano",
+    "telephone": "+390288445181",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Piazza del Duomo, 12",
+      "addressLocality": "Milano",
+      "postalCode": "20121",
+      "addressRegion": "MI",
+      "addressCountry": "IT"
+    },
+    "parentOrganization": {
+      "@type": "GovernmentOrganization",
+      "name": "Comune di Milano",
+      "url": "https://www.comune.milano.it/"
+    },
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "Association des Résidences Royales Européennes",
+        "url": "https://www.europeanroyalresidences.eu/"
+      },
+      {
+        "@type": "Organization",
+        "name": "Fédération Européenne des Cités Napoléoniennes",
+        "url": "https://www.napoleoncities.eu/"
+      }
+    ]
+  }
+}
