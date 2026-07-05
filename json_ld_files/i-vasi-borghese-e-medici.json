@@ -1,0 +1,16 @@
+{
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#vasi-medici-borghese",
+    "name": "I vasi Medici e Borghese",
+    "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/i-vasi-borghese-e-medici.html",
+    "image": [
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/i-vasi-borghese-e-medici/i-vasi-borghese-e-medici1.jpeg",
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/i-vasi-borghese-e-medici/i-vasi-borghese-e-medici2.jpeg"
+    ],
+    "artform": "Sculpture",
+    "artMedium": "marmo",
+    "height": "188 cm",
+    "width": "64 cm",
+    "description": "Il vaso Medici e il vaso Boerghese, situati nella grande anticamera di Palazzo Reale, sono legati alla lunga storia degli arredi di Palazzo Reale. Si tratta di riproduzioni in marmo del XVI secolo dei due crateri monumentali d’epoca greca e romana oggi esposti, rispettivamente, nella Galleria degli Uffizi a Firenze e al Museo del Louvre a Parigi. I preziosi fregi figurati a basso rilievo rappresentano, nel vaso Medici, le figure di Artemide e Ifigenia mentre, nel vaso Borghese, raffigurano il Dio Dioniso. La raffinatezza e l’eleganza di questi elementi riflette i gusti della corte che un tempo abitava le lussuose sale di questo palazzo. Dopo molti anni di assenza i vasi sono tornati nel 2025 al Palazzo Reale di Milano per accogliere i suoi ospiti nella grande anticamera del piano nobile."
+}
