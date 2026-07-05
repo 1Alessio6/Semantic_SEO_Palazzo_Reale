@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Museum",
+  "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum",
+  "name": "Palazzo Reale Milano",
+  "telephone": "+390288445181",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza del Duomo, 12",
+    "addressLocality": "Milano",
+    "addressCountry": "IT"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Monday",
+      "opens": "00:00",
+      "closes": "00:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Tuesday", "Wednesday", "Friday", "Saturday", "Sunday"],
+      "opens": "10:00",
+      "closes": "19:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Thursday",
+      "opens": "10:00",
+      "closes": "22:30"
+    }
+  ],
+  "event": [
+    {
+      "@type": "Event",
+      "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/mostre_attuali/metafisica.html#event",
+      "name": "Metafisica / Metafisiche",
+      "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/biglietti/metafisica.jpg",
+      "description": "Mostra dal 28.01.2026 al 21.06.2026",
+      "startDate": "2026-01-28",
+      "location": {
+        "@type": "Museum",
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://www.ticketone.it/artist/metafisica-metafisiche/metafisica-metafisiche-4045911/"
+    },
+    {
+      "@type": "Event",
+      "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/mostre_attuali/anselm_kiefer.html#event",
+      "name": "KIEFER Le Alchimiste",
+      "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/biglietti/kiefer.jpg",
+      "description": "Mostra dal 07.02.2026 al 27.09.2026",
+      "startDate": "2026-02-07",
+      "location": {
+        "@type": "Museum",
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://marsilioarte.vivaticket.it/it/event/anselm-kiefer-le-alchimiste/285061?"
+    },
+    {
+      "@type": "Event",
+      "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/mostre_attuali/macchiaioli.html#event",
+      "name": "I Macchiaioli",
+      "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/biglietti/macchiaioli.jpg",
+      "description": "Mostra dal 03.02.2026 al 14.06.2026",
+      "startDate": "2026-02-03",
+      "location": {
+        "@type": "Museum",
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://mostramacchiaioli.madeticket.it/it/shop/biglietti"
+    },
+    {
+      "@type": "Event",
+      "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/mostre_attuali/mapplethorpe.html#event",
+      "name": "Mapplethorpe Le forme del desiderio",
+      "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/biglietti/mapplethorpe.jpg",
+      "description": "Mostra dal 29.01.2025 al 17.05.2026",
+      "startDate": "2025-01-29",
+      "location": {
+        "@type": "Museum",
+        "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/#museum"
+      },
+      "url": "https://marsilioarte.vivaticket.it/it/event/robert-mapplethorpe-le-forme-del-desiderio/285687?idt=4521"
+    }
+  ]
+}
