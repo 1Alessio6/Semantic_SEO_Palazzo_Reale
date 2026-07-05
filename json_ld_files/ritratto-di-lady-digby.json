@@ -1,0 +1,20 @@
+{
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#lady-digby",
+    "name": "Ritratto di Lady Digby sul letto di morte",
+    "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/ritratto-di-lady-digby.html",
+    "image": [
+        "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/ritratto-di-lady-digby/ritratto-di-lady-digby.jpg"
+    ],
+    "creator": {
+        "@type": "Person",
+        "name": "Antoon van Dyck",
+        "sameAs": "https://it.wikipedia.org/wiki/Antoon_van_Dyck"
+    },
+    "artform": "Painting",
+    "artMedium": "olio su tela",
+    "height": "242 cm",
+    "width": "155 cm",
+    "description": "“Lady Venetia Digby come allegoria della Prudenza”, dipinto da Antoon Van Dyck nel 1633 (olio su tela, 242 x 155 cm), si trova nell'inventario di Palazzo Reale dal 1857 e oggi è esposto nell' Anticamera di Sinistra. Venetia Stanley, moglie di sir Kenelm Digby, era una delle dame più ammirate e chiacchierate della aristocrazia inglese al tempo del re Carlo I: le sue avventure amorose erano celebri quanto la sua bellezza, esaltata da una carnagione paragonata alle “rose di Damasco”. Il dipinto di Palazzo Reale è insieme una memoria della fresca bellezza e un autentico “monumento” simbolico alle virtù della gentildonna, probabilmente eseguito subito dopo la precoce morte, avvenuta il primo maggio del 1633."
+}
