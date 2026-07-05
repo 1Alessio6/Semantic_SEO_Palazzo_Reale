@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#list",
+    "name": "I capolavori di Palazzo Reale",
+    "description": "I principali capolavori artistici e decorativi ospitati all'interno di Palazzo Reale Milano.",
+    "numberOfItems": 5,
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "VisualArtwork",
+                "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#centrotavola",
+                "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/il-centrotavola-di-giacomo-raffaelli.html",
+                "name": "Il Centrotavola di Giacomo Raffaelli",
+                "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/Centrotavola.png",
+                "creator": {
+                    "@type": "Person",
+                    "name": "Giacomo Raffaelli",
+                    "sameAs": "https://it.wikipedia.org/wiki/Giacomo_Raffaelli_(artista)"
+                },
+                "artform": "Sculpture",
+                "artMedium": "mosaico minuto, marmi colorati, bronzo dorato",
+                "description": "Il sontuoso centrotavola (parterre) realizzato da Giacomo Raffaelli per il banchetto in onore del viceré Eugenio di Beauharnais nel 1804."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "VisualArtwork",
+                "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#vasi-medici-borghese",
+                "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/i-vasi-borghese-e-medici.html",
+                "name": "Vasi Medici e Borghese",
+                "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/Vaso_Villa_borghese_medici.jpg",
+                "creator": {
+                    "@type": "Organization",
+                    "name": "Manifattura Imperiale"
+                },
+                "artform": "Sculpture",
+                "artMedium": "porcellana, bronzo dorato",
+                "description": "Coppia di vasi monumentali in porcellana ispirati ai celebri modelli dell'antichità classica (Vaso Medici e Vaso Borghese) del periodo neoclassico."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "VisualArtwork",
+                "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#pendola-sabine",
+                "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/pendola-con-il-ratto-delle-sabine.html",
+                "name": "Pendola con il Ratto delle Sabine",
+                "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/Pendola_con_il_ratto_delle_sabine.png",
+                "creator": {
+                    "@type": "Person",
+                    "name": "Francesco Manfredini"
+                },
+                "artform": "Decorative Art",
+                "artMedium": "bronzo dorato, marmo",
+                "description": "Orologio a pendola monumentale in bronzo dorato raffigurante il celebre episodio storico-mitologico del Ratto delle Sabine."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "VisualArtwork",
+                "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#lady-digby",
+                "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/ritratto-di-lady-digby.html",
+                "name": "Ritratto di Lady Digby sul letto di morte",
+                "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/Lady_Digby.png",
+                "creator": {
+                    "@type": "Person",
+                    "name": "Antoon van Dyck",
+                    "sameAs": "https://it.wikipedia.org/wiki/Antoon_van_Dyck"
+                },
+                "artform": "Painting",
+                "artMedium": "olio su tela",
+                "description": "Celebre ritratto di Lady Venetia Digby sul letto di morte dipinto dal grande maestro fiammingo Antoon van Dyck nel 1633."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@type": "VisualArtwork",
+                "@id": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori.html#lunette-appiani",
+                "url": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/pages/i-capolavori/le-lunette-di-andrea-appiani.html",
+                "name": "Le lunette di Andrea Appiani",
+                "image": "https://1alessio6.github.io/Semantic_SEO_Palazzo_Reale/images/capolavori/Lunette_Appiani.png",
+                "creator": {
+                    "@type": "Person",
+                    "name": "Andrea Appiani",
+                    "sameAs": "https://it.wikipedia.org/wiki/Andrea_Appiani"
+                },
+                "artform": "Painting",
+                "artMedium": "affresco (ciclo pittorico)",
+                "description": "Ciclo di affreschi staccati eseguiti da Andrea Appiani per la Sala delle Lanterne, raffiguranti soggetti mitologici e allegorici."
+            }
+        }
+    ]
+}
